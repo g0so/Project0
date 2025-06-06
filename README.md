@@ -1,2 +1,2 @@
-# Project0
-A weather forecast website
+Project 0
+Learning Machine Learning
